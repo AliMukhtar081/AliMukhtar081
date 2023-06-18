@@ -1,8 +1,6 @@
 # 💫 About Me:
 I'm your go-to Backend Developer, masterfully juggling API integrations and databases, ensuring all the pieces fit together seamlessly in the puzzle of software development.<br><br>Professionally, I spend most of my time bringing systems together, building bridges between APIs, and maintaining the security and integrity of databases. I've got a knack for making different software dance together in harmony, a conductor of technology, if you will.<br><br>But there's more to me than just server-side tasks and requests; I have a particular fascination with generative AI. The idea of creating something out of nothing, or making systems that can produce their own, unique output is just astonishingly wonderful to me. And guess what? I'm not just fascinated by it - I'm an expert in AI integrations. Machine Learning, Neural Networks, you name it - I love it all!
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AliMukhtar081&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ## 🚀 Skills & Expertise
 - **API Integrations:** REST, GraphQL, SOAP... you name it, I've integrated it.
 - **Databases:** MySQL, PostgreSQL, MongoDB, Oracle, and more.
