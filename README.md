@@ -1,6 +1,14 @@
 # 💫 About Me:
 I'm your go-to Backend Developer, masterfully juggling API integrations and databases, ensuring all the pieces fit together seamlessly in the puzzle of software development.<br><br>Professionally, I spend most of my time bringing systems together, building bridges between APIs, and maintaining the security and integrity of databases. I've got a knack for making different software dance together in harmony, a conductor of technology, if you will.<br><br>But there's more to me than just server-side tasks and requests; I have a particular fascination with generative AI. The idea of creating something out of nothing, or making systems that can produce their own, unique output is just astonishingly wonderful to me. And guess what? I'm not just fascinated by it - I'm an expert in AI integrations. Machine Learning, Neural Networks, you name it - I love it all!
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AliMukhtar081&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+## 🚀 Skills & Expertise
+- **API Integrations:** REST, GraphQL, SOAP... you name it, I've integrated it.
+- **Databases:** MySQL, PostgreSQL, MongoDB, Oracle, and more.
+- **AI:** TensorFlow, PyTorch, GPT-4 (did you know AI can write creative text too?)
+- **Languages:** Python, Java, JavaScript, C++, SQL and bash scripting are my best pals.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-mukhtar-477895b5/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/a_mukhtar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ali-mukhtar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AliMukhtat081) 
 
@@ -23,13 +31,6 @@ Each project represents a waypoint in my ongoing journey through the vast expans
 ## 🎨 AI and Me
 When I'm not integrating APIs or managing databases, you'll likely find me exploring the exciting world of generative AI. I've built poetry writing bots, AI painters, and even a music composing neural network. So, if you've got an idea that needs AI, or need an AI component integrated into your system, I'm definitely your person!
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AliMukhtar081&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-## 🚀 Skills & Expertise
-- **API Integrations:** REST, GraphQL, SOAP... you name it, I've integrated it.
-- **Databases:** MySQL, PostgreSQL, MongoDB, Oracle, and more.
-- **AI:** TensorFlow, PyTorch, GPT-4 (did you know AI can write creative text too?)
-- **Languages:** Python, Java, JavaScript, C++, SQL and bash scripting are my best pals.
 
 
 
