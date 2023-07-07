@@ -18,11 +18,10 @@ I'm your go-to Backend Developer, masterfully juggling API integrations and data
 Navigating the AI cosmos, I've embarked on a host of exciting projects, harnessing the power of OpenAI. Each project has stretched the frontiers of AI applications, redefining the intersection of human creativity and machine intelligence. Here's a snapshot of my AI-powered brigade, each serving as a beacon of my passion and commitment:
 
 
-🤖 **RoboBuddy:** My first step into the robotics realm, aspiring to create a bot that can interact with real-world objects.
+
 📱 **ChatMate:** A WhatsApp AI bot, making conversations smarter and more interactive.
 🐦 **TweetSensei:** A Twitter bot, utilizing AI to automate tasks and generate meaningful engagement.
 💬 **DiscordAI:** A Discord bot, enhancing server interactions with intelligent responses and commands.
-📚 **PoetBot:** A poetry-writing bot that employs GPT-4 to generate verses brimming with emotion.
 
 Each project represents a waypoint in my ongoing journey through the vast expanse of AI. They reflect not just my skills, but my excitement for the limitless potential of artificial intelligence. The odyssey continues, and I eagerly await the groundbreaking paths it's bound to carve.
 
